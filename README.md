@@ -1,5 +1,5 @@
 # Indeed-Analysis-Oct-2022-
-Summary: Cleaning and analyzing scraped data from Indeed.com for Business Analyst, Data Analyst, and Data Scientist internships in October 2022.
+Summary: Cleaning and analyzing scraped data from Indeed.com for Business Analyst, Data Analyst, and Data Scientist internships in October 2022. 
 
 Background: I'm currently in graduate school studying Information Systems with a concentration in Business Analytics, and I work full-time for a music publishing company in Nashville, TN. I decided to complete this project in my free time. The project displays some skills I've learned over the last year in school and provides valuable insights about internship opportunities in the Business Analytics, Data Analytics, and Data Science fields.
 
