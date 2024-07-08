@@ -5,7 +5,7 @@ Final Dashboard: https://public.tableau.com/views/IndeedAnalysisOct2022/Internsh
 
 Background: I'm currently in graduate school studying Information Systems with a concentration in Business Analytics, and I work full-time for a music publishing company in Nashville, TN. I decided to complete this project in my free time. The project displays some skills I've learned over the last year in school and provides valuable insights about internship opportunities in the Business Analytics, Data Analytics, and Data Science fields.
 
-Why: I'm currently seeking an internship opportunity. Trying to determine what's important to employers based on screening through hundreds of job postings on Indeed.com is challenging and time-consuming. What skills are required? Are there specific coding languages that employers want interns to be familiar with? How many internships are remote vs. in-person? I had many questions, so I scraped information from Indeed.com, cleaned the data, and created an interactive dashboard to understand it better.
+Why: Trying to determine what's important to employers based on screening through hundreds of job postings on Indeed.com is challenging and time-consuming. What skills are required? Are there specific coding languages that employers want interns to be familiar with? How many internships are remote vs. in-person? I had many questions, so I scraped information from Indeed.com, cleaned the data, and created an interactive dashboard to understand it better.
 
 Tools Used: Octoparse, Python, Pandas, Jupyter Notebook, Excel, Tableau 
 
